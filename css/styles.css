@@ -1,0 +1,104 @@
+body {
+  background-color: #F0E5CF;
+  font-family: biotif-regular-webfont
+}
+
+h1, h2, h3, p {
+  padding-left: 1.8rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Bogart-Regular-trial'
+}
+
+h3 {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+
+/* Navigation Bar */
+.navbar {
+  background-color: #F0E5CF;
+}
+
+#brand-img {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  right: 46%;
+}
+.nav-item {
+  padding: 0 3%;
+}
+
+.container-fluid {
+  padding: 0;
+}
+.social-img {
+  height: 1.5rem;
+  width: 1.5rem;
+  position: absolute;
+}
+
+.instagram {
+  right: 6rem;
+}
+
+.fiverr {
+  right: 2rem;
+}
+
+/* Introduction */
+
+#introduction {
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+.intro-text {
+  text-align: left;
+}
+
+.logo {
+  margin: 1.5rem;
+}
+
+/* Experience */
+
+#Experience {
+  background-color: #F7F6F2;
+  padding-left: 0;
+}
+
+.list-group {
+  padding: 1.5rem
+}
+
+.col-8 {
+  padding: 0
+}
+
+.tab-pane {
+  padding-top: 1.5rem
+}
+/* Interests */
+#Interests .tab-pane {
+  padding-left: 2.3rem;
+}
+/* Contact us */
+
+#contact-me {
+  text-align: center;
+  background-color: #F7F6F2;
+  padding-bottom: 1rem
+}
+
+#copyright {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.social-icon {
+  padding: 0 0.5rem;
+}
